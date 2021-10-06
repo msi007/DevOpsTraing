@@ -1,6 +1,6 @@
 # DevOpsTraining
 
- git init
+ git init <br>
  git remote add origin repolink
  git add .
  git commit
