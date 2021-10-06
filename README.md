@@ -1,7 +1,7 @@
 # DevOpsTraining
 
  git init <br>
- git remote add origin repolink
- git add .
- git commit
- git push master
+ git remote add origin repolink <br>
+ git add . <br>
+ git commit <br>
+ git push master <br>
